@@ -1,5 +1,6 @@
 # IFS-project
 IFS fractal explorer
+!!!ATTENTION!!! IT IS STRONGLY ADVICED TO MERGE TDR WITH REGISTER BEFORE USING CUDA ACCELERATED RENDERING, GPUs are loop based and drivers will automaticallly kill any process which uses gpu for more than several seconds, we really don't want that in general computation solutions.
 
 Compressed IFS fractal explorer which uses multithreading or GPU CUDA for calculations. 
 Rendering pipeline implemented via SFML lib with few OpenGL tweaks, 
