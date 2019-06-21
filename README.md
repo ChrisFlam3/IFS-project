@@ -17,4 +17,4 @@ REMEMBER:Multithreading and GPU rendering affect only HQ, preview mode will bypa
 
 For now explorer supports only 8 bit grayscale but renders could be easily colored using postprocess softs.
 
-![ScreenShot](/render_examples/juliaedited.png)
+![ScreenShot](/render_examples/julia5edited.png)
