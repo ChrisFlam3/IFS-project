@@ -17,6 +17,6 @@ Single core (depends), for 3.2 GHz around 1.5h
 
 REMEMBER:Multithreading and GPU rendering affect only HQ, preview mode will bypass any multithreading.
 
-For now explorer supports only 8 bit grayscale but renders could be easily colored using postprocess softs.
+For now explorer supports only 8 bit grayscale but renders could be easily colored using postprocess softs thanks to 3D nature of the algorithm.
 
 ![ScreenShot](/render_examples/ifs5edited.png)
