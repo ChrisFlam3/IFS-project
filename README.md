@@ -29,6 +29,6 @@ For now explorer supports only 8 bit grayscale but renders could be easily color
 ![ScreenShot](/IFS_ui_screen.png)
 
 # Implementation
-Languages: C, C++
-Dependencies: CUDA, SFML, nuklear
-Owner: Christopher Misan
+Languages: C, C++  
+Dependencies: CUDA, SFML, nuklear  
+Owner: Christopher Misan  
